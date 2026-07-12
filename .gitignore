@@ -1,0 +1,23 @@
+# Environments
+venv/
+.venv/
+*env/
+__pycache__/
+*.pyc
+
+# Model artifacts — regenerate with `python -m formcoach.train`
+models/
+*.pkl
+*.task
+*.pt
+
+# Augmented data — regenerate with `python -m formcoach.augment`
+*_aug.csv
+*_pollated.csv
+
+# Benchmark dataset — download from Kaggle (see benchmark/README.md)
+benchmark/csv_data/
+
+# OS
+Thumbs.db
+.DS_Store

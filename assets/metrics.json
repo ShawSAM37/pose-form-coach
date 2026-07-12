@@ -1,0 +1,44 @@
+[
+  {
+    "exercise": "Ex1",
+    "raw_samples": 521,
+    "train_samples_augmented": 1664,
+    "test_samples": 105,
+    "test_accuracy": 1.0,
+    "classes": [
+      "Dangerous",
+      "Down",
+      "Optimal",
+      "Up",
+      "subOptimal"
+    ]
+  },
+  {
+    "exercise": "Ex2",
+    "raw_samples": 643,
+    "train_samples_augmented": 2056,
+    "test_samples": 129,
+    "test_accuracy": 1.0,
+    "classes": [
+      "Dangerous",
+      "Down",
+      "Optimal",
+      "Up",
+      "subOptimal"
+    ]
+  },
+  {
+    "exercise": "Ex3",
+    "raw_samples": 614,
+    "train_samples_augmented": 1964,
+    "test_samples": 123,
+    "test_accuracy": 1.0,
+    "classes": [
+      "Dangerous",
+      "Down",
+      "Optimal",
+      "Up",
+      "subOptimal"
+    ]
+  }
+]
